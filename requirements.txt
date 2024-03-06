@@ -1,0 +1,16 @@
+antropy==0.1.6
+Django==3.2
+joblib==1.2.0
+keras==2.12.0
+numpy==1.23.5
+pandas==1.5.3
+python-dotenv==1.0.0
+PyWavelets==1.4.1
+scipy==1.11.4
+statsmodels==0.14.0
+tensorflow
+tensorflow_intel
+django-compressor
+xgboost==2.0.2
+scikit-learn==1.3.2
+
